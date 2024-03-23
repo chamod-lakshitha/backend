@@ -30,7 +30,7 @@ nltk.download('stopwords')
 #from gensim.utils import simple_preprocess
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 from sklearn.model_selection import train_test_split
-from xgboost import XGBClassifier
+# from xgboost import XGBClassifier
 from sklearn.decomposition import PCA
 from sklearn.preprocessing import label_binarize
 
