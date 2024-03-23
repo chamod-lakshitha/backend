@@ -11,7 +11,7 @@ from untitled1 import longfamouscusinebasedddd
 from untitled1 import longfamouscusinebaseddddd
 from untitled1 import longfamouscusinebasedddddd
 
-# Define a global variable to store the user's location
+# Define a global variable to store the user's locations
 user_location = None
 restaurant_type = None
 cuisine_type = None
